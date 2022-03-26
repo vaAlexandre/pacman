@@ -7,7 +7,7 @@ entries:
     description: Pac-Man Demo App for Kubernetes
     digest: 9cd6a190c856cba62982977d14ce740a601b07b2bab1cfa552801ad3b4e968ee
     home: https://github.com/shuguet/pacman
-    icon: https://www.huguet.me
+    icon: https://shuguet.github.io/pacman/icon.png
     maintainers:
     - name: Dean Lewis
       url: https://veducate.co.uk
@@ -29,7 +29,7 @@ entries:
     description: Pac-Man Demo App for Kubernetes
     digest: 1c3b01226d280466f222e39a6f2e10fe0953189efa857d1eb36444e714f2565b
     home: https://github.com/shuguet/pacman
-    icon: https://www.huguet.me
+    icon: https://shuguet.github.io/pacman/icon.png
     maintainers:
     - name: Dean Lewis
       url: https://veducate.co.uk
@@ -51,7 +51,7 @@ entries:
     description: Pac-Man for Kubernetes
     digest: bc02b49cbde87d6be6890f1021fe0fa2de8810c26463fdfc81fb361bbf7af82d
     home: https://github.com/shuguet/pacman-kube
-    icon: https://www.huguet.me
+    icon: https://shuguet.github.io/pacman/icon.png
     maintainers:
     - name: Dean Lewis
       url: https://veducate.co.uk
