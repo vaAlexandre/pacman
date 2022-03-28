@@ -2,7 +2,7 @@
 Pac-Man Demo App for Kubernetes
 
 ![GitHub](https://img.shields.io/github/license/shuguet/pacman)
-![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/pacman)](https://artifacthub.io/packages/search?repo=pacman)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/pacman)](https://artifacthub.io/packages/search?repo=pacman)
 ![Build & Publish Container](https://github.com/shuguet/pacman/actions/workflows/docker-image.yaml/badge.svg)
 
 ## Installation instructions:
