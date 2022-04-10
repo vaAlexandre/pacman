@@ -2,6 +2,28 @@ apiVersion: v1
 entries:
   pacman:
   - apiVersion: v2
+    appVersion: 0.1.6
+    created: "2022-04-10T13:43:20.01901232Z"
+    description: Pac-Man Demo App for Kubernetes
+    digest: 72c69ce2bb117481cec31636fbc9f7f3da80c26356fd29bd20e01ed1993ce3e7
+    home: https://github.com/shuguet/pacman
+    icon: https://shuguet.github.io/pacman/icon.png
+    maintainers:
+    - name: Dean Lewis
+      url: https://veducate.co.uk
+    - name: Davis Phillips
+      url: https://github.com/dav1x/
+    - name: Michael Cade
+      url: https://vzilla.co.uk/
+    - name: Sylvain Huguet
+      url: https://www.huguet.me
+    name: pacman
+    sources:
+    - https://github.com/shuguet/pacman
+    urls:
+    - https://github.com/shuguet/pacman/releases/download/pacman-0.1.6/pacman-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
     appVersion: 0.1.4
     created: "2022-03-26T13:59:01.252780754Z"
     description: Pac-Man Demo App for Kubernetes
@@ -111,4 +133,4 @@ entries:
     urls:
     - https://github.com/shuguet/pacman/releases/download/pacman-0.1.0/pacman-0.1.0.tgz
     version: 0.1.0
-generated: "2022-03-26T13:59:01.252802554Z"
+generated: "2022-04-10T13:43:20.01904272Z"
