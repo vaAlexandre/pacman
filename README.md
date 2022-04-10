@@ -10,17 +10,18 @@ Pac-Man Demo App for Kubernetes
 
 ## Development instructions
 
-#### Install dependencies
-```
-npm install
-```
-
 #### Getting started
 
 Build the image locally once, to check everything is working fine
 ```
 ./scripts/build.sh
 ```
+
+Once inside the build environment, you can use
+```
+npm install
+```
+to update/install newer versions of the Node.js packages used by the app.
 
 If you don't see any error, you should proceed with starting the development environment
 ```
